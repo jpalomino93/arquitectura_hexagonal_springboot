@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<sample-hexagonal-architecture>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.jpalomino.sample.hexagonal.Application",
+            "projectName": "sample-hexagonal-architecture",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
